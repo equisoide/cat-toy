@@ -1,0 +1,8 @@
+{
+	"name": "remote-laser-api",
+	"main": "app.js",
+	"dependencies": {
+		"express": "^4.12.3",
+		"johnny-five": "^0.8.49"
+	}
+}
